@@ -1,2 +1,2 @@
 # hello-world
-doing my first Repository from scractch
+doing my first Repository from scratch
